@@ -1,4 +1,4 @@
-# HTML-CSS-
+# HTML-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,6 +40,7 @@
 </body>
 </html>
 
+# CSS-
 * {
     margin: 0;
     padding: 0;
